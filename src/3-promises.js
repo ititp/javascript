@@ -36,8 +36,7 @@ export function chain(fns) {
 /**
  * Prend en paramètre une fonction 
  * @param {*} callbackFn 
- * @returns Une fonction asynchronequi utilise une Promise pour exécuter callbackFn
+ * @returns Une fonction asynchrone qui utilise une Promise pour exécuter callbackFn
  */
 export function promisify(callbackFn) {
-
 }

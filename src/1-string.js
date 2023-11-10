@@ -11,14 +11,14 @@
  * @returns {String}
  */
 export function reverse(str) {
-    
+
 }
 
 /**
  * Détermine si la string passée en paramètre est un palindrome ou non.
  * Un palindrome est un mot ou une phrase qui peut être lue dans le deux sens. Ex : elle, été, radar...
  * @param {String} str 
- * @returns {String}
+ * @returns {Boolean}
  */
 export function isPalindrome(str) {
 
